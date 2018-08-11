@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="editor_activity_label">Add an Item</string>
+    <string name="add_dummy_data">Add dummy data</string>
+    <string name="delete_all_data">Delete all data</string>
+    <string name="save">Save</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="product_name">Product Name:</string>
+    <string name="quantity">Quantity:</string>
+    <string name="price">Price (in Rs.):</string>
+    <string name="image">Image:</string>
+    <string name="in_stock">In Stock:</string>
+    <string name="sale">Sale</string>
+    <string name="editor_insert_product_failed">Error in saving product</string>
+    <string name="editor_insert_product_successful">Product saved Successfully</string>
+    <string name="editor_update_product_failed">Error in updating product</string>
+    <string name="editor_update_product_successful">Product updated Successfully</string>
+    <string name="editor_delete_product_falied">Error in deleting product</string>
+    <string name="editor_delete_product_successful">Product deleted Successfully</string>
+    <string name="update_quantity_button">Update quantity</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this product?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="suplier_name">Suplier Name:</string>
+    <string name="supplier_no">Supplier No.:</string>
+    <string name="order_more">Order More</string>
+    <string name="inventory_is_empty">Inventory is empty</string>
+    <string name="get_started_with_adding_product">Get started with adding product</string>
+</resources>
